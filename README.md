@@ -79,7 +79,7 @@
 <body>
 
 <div class="header">
-    <div>사이트바로가기</div>
+    <div>스토어</div>
     <img src="이미지경로.png" alt="logo">
 </div>
 
