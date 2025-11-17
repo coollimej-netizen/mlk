@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>사이트 이동</title>
+<title>앱스토어</title>
 
 <style>
     body {
